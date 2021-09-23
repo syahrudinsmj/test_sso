@@ -10,8 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "bssn-sso/phpcas": "1.3.x-dev",
-        "phpunit/phpunit": "9.5.x-dev"
+        "bssn-sso/phpcas": "1.3.x-dev"
     },
     "autoload": {
         "psr-4": {
